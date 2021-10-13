@@ -1,0 +1,14 @@
+{
+  "name": "practica-de-azure-cloud-functions",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongodb": "^4.1.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
